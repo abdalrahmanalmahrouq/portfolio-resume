@@ -10,7 +10,7 @@ export class Skills extends Component {
   
       <div class="container section-title" data-aos="fade-up">
         <h2>Skills</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+    
       </div>
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -52,16 +52,16 @@ export class Skills extends Component {
             </div>
 
             <div class="progress">
-              <span class="skill"><span>WordPress/CMS</span> <i class="val">90%</i></span>
+              <span class="skill"><span>Python</span> <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar"  style={{width: '90%'}}></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill"><span>Photoshop</span> <i class="val">55%</i></span>
+              <span class="skill"><span>Java</span> <i class="val">40%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar"  style={{width: '55%'}}></div>
+                <div class="progress-bar" role="progressbar"  style={{width: '40%'}}></div>
               </div>
             </div>
 

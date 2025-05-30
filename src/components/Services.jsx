@@ -11,7 +11,7 @@ export class Services extends Component {
 
      
       <div class="container section-title" data-aos="fade-up">
-        <h2>Services</h2>
+        <h2>Projects</h2>
         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
       </div>
 

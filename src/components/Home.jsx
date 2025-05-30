@@ -14,9 +14,9 @@ export class Home extends Component {
       <div class="container text-center" data-aos="zoom-out" data-aos-delay="100">
         <div class="row justify-content-center">
           <div class="col-lg-8">
-            <h2>Kelly Adams</h2>
-            <p>I'm a professional illustrator from San Francisco</p>
-            <a href="about.html" class="btn-get-started">About Me</a>
+            <h2>Abdalrahman AL-Mahrouq</h2>
+            <p>I'm a passionate Developer  from Jordan</p>
+           
           </div>
         </div>
       </div>
